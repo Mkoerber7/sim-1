@@ -1,0 +1,30 @@
+.header-container {
+    width: auto;
+    height: auto;
+    display: inline-block;
+    position: relative;
+    left: -165px;
+}
+
+#coolDiv {
+    width: 100%;
+    height: 100px;
+    background-color: #ab2a19;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-img {
+    width: 50px;
+    position: relative;
+    top: 13px;
+    margin-right: 10px;
+}
+
+.shelfie-title {
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 700; 
+}
